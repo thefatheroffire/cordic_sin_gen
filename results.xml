@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1769503690" />
+    <testcase name="test_3_125mhz_sine" classname="test_sin_gen" file="/home/djr/work/tb/cordic_cocotb/test_sin_gen.py" lineno="5" time="0.017467975616455078" sim_time_ns="1135.0" ratio_time="64976.04673381923" />
+  </testsuite>
+</testsuites>
