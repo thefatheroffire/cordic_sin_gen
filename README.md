@@ -7,5 +7,6 @@
 需要产生3.125Mhz的正弦波
 
 设计语言：verilog
+基于vivado  
 仿真环境：linux  Ubuntu 22.04
 脚本：cocotb
